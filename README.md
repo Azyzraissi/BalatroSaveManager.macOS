@@ -1,4 +1,7 @@
-Save Manager for Balatro, macOS only
+![Frame 2](https://github.com/Azyzraissi/balatro-save-manager/assets/91022358/59ccec05-981e-4c46-a6dc-d9de2c8b0d09)
+
+
+A simple Balatro Save Manager for macOS
 
 ## Usage
 
